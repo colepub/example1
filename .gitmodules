@@ -7,6 +7,3 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = https://github.com/enyojs/layout.git
-[submodule "lib/example2"]
-	path = lib/example2
-	url = git@github.com:colepub/example2.git
